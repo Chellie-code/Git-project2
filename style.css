@@ -1,0 +1,43 @@
+h1{
+    color: white;
+}
+
+body{
+    background:linear-gradient(rgb(0, 0, 117),white,rgb(0, 0, 117),white);
+    font-family: 'Gluten', cursive;
+}
+
+#para1{
+    background:linear-gradient(rgb(3, 3, 53),blue);
+    color: aliceblue;
+    padding: 30px;
+    border: 2px dotted skyblue;
+    margin: 50px;
+    margin-top:50px ;
+}
+
+form{
+    text-align: center;
+    color: rgb(7, 7, 7);
+}
+
+header{
+    background-color: rgb(1, 1, 65);
+    padding: 30px;
+    text-align: center;
+}
+
+div{
+    background:linear-gradient(white ,rgb(66, 142, 172),rgb(174, 227, 243));
+    padding: 20px;
+    text-align: center;
+    border: 2px solid green;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background:linear-gradient(rgb(11, 11, 107),skyblue);
+    padding: 10px;
+    text-align: center;
+}
