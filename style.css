@@ -15,6 +15,18 @@ body{
     margin-top:50px ;
 }
 
+.border2{
+    border: 5px solid blue;
+}
+
+.border1{
+    border: 5px solid blue;
+}
+
+.border3{
+    border: 5px solid blue;
+}
+
 form{
     text-align: center;
     color: rgb(7, 7, 7);
